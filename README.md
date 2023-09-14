@@ -64,3 +64,6 @@ https://mp.weixin.qq.com/s?__biz=MzU5MzMxNTk2Nw==&mid=2247486104&idx=1&sn=141e29
 https://blog.zkga.me/df-init-circuit
 
 http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_2.html
+
+zk-rollup学习
+https://zhuanlan.zhihu.com/p/536479978?utm_id=0
