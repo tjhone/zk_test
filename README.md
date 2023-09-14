@@ -67,3 +67,5 @@ http://www.shirpeled.com/2018/10/a-hands-on-tutorial-for-zero-knowledge_2.html
 
 zk-rollup学习
 https://zhuanlan.zhihu.com/p/536479978?utm_id=0
+zksync2
+https://portal.zksync.io/
